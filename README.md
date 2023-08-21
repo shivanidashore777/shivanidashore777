@@ -6,13 +6,13 @@
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 
-- 🌱 I’m currently learning **Advancing SQL skills, Enhancing data visualization with Python, Exploring cloud analytics**
+- 🌱 I’m currently learning **Data Analytics tools,techniques,Cloud technologies**
 
 - 👨‍💻 All of my projects are available at [https://shivanidashore777.github.io/DataInsightsShivaniDashore/](https://shivanidashore777.github.io/DataInsightsShivaniDashore/)
 
 - 📝 I regularly write articles on [https://medium.com/@shivanidashore777](https://medium.com/@shivanidashore777)
 
-- 💬 Ask me about **Excel tips and tricks, SQL queries and data manipulation, Power BI dashboard design, Getting started with data analysis**
+- 💬 Ask me about **Excel tips and tricks, SQL queries and data manipulation**
 
 - 📫 How to reach me **shivanidashore777@gmail.com**
 
@@ -30,6 +30,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 😄 Pronouns: **She/Her**
+
+- ⚡ Fun fact: **Non-Techie 😄**
 -->
